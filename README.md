@@ -6,7 +6,7 @@ We are buidling a new site for www.experityhosting.eu. This is for my personal P
 ## The Team
 This project is currently build by 3 developers.
 
- Dengisan (Dennis)
+ KuroiSH (Gabriel)
  - CEO www.experityhosting.eu
  - Head-Developer
  - Back end Developer
@@ -36,4 +36,4 @@ We will keep this list updated.
 Please donate to "support@cavenetwork.eu" to keep us motivated for our great work.
 
 ## Coppyright
-© Experityhosting, DengisanHQ
+© Experityhosting
