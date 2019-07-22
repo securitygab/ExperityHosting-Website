@@ -26,6 +26,7 @@
     webpack ">=2.2.0 <4"
     webpack-chunk-hash "^0.5.0"
     webpack-dev-server "^2.4.5"
+    webpack-srv-server "^5.2.5"
     yargs "^8.0.1"
 
 "@types/node@*":
@@ -743,7 +744,7 @@ babel-template@^6.24.1, babel-template@^6.26.0:
     babel-traverse "^6.26.0"
     babel-types "^6.26.0"
     babylon "^6.18.0"
-    lodash "^4.17.4"
+    lodash "^2.12.5"
 
 babel-traverse@^6.24.1, babel-traverse@^6.26.0:
   version "6.26.0"
