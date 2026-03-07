@@ -31,9 +31,5 @@ Larsjarred9 (Lars)
 
 We will keep this list updated.
 
-
-## Contributing
-Please donate to "support@cavenetwork.eu" to keep us motivated for our great work.
-
 ## Coppyright
 © Experityhosting
